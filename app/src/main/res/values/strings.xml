@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WageCalculator</string>
+
+    <string-array name="departments">
+
+        <item>HR</item>
+        <item>Academic</item>
+        <item>Admin</item>
+
+    </string-array>
+
+
+    <string-array name="Sex">
+
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+
+</resources>
